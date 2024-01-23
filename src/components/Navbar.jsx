@@ -8,7 +8,7 @@ export default function Navbar() {
         <Link href="/">
           <Image src="/ak.svg" alt="logo" width={32} height={32} />
         </Link>
-        <Link href="/add-topic" className="bg-cyan-500 px-2 py-1 text-sm">
+        <Link href="/add-topic" className="bg-sky-600 px-2 py-1 text-sm">
           Add Topic
         </Link>
       </div>

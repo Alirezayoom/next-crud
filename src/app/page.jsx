@@ -1,3 +1,9 @@
+import Topics from "@/components/Topics";
+
 export default function Home() {
-  return <div>next-curd app</div>;
+  return (
+    <>
+      <Topics />
+    </>
+  );
 }
